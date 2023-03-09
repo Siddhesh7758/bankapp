@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "bankapp",
+    "slug": "bankapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
